@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages newlook mtaani"
+    "deploy": "gh-pages -newlook mtaani"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/kagz/newlook-mtaani/issues"
   },
-  "homepage": "https://kagz.github.io/newlook-mtaani",
+  "homepage": "https://kagz.github.io/newlookmtaani",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
