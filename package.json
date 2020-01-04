@@ -1,0 +1,22 @@
+{
+  "name": "newlook-mtaani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -newlook mtaani"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagz/newlook-mtaani.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kagz/newlook-mtaani/issues"
+  },
+  "homepage": "https://github.com/kagz/newlook-mtaani",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
